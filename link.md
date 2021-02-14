@@ -1,10 +1,10 @@
 Inline link  
 Google: http://www.google.co.kr  
-Gmail: <dle0129@gmail.com>
+Google: <http://www.google.co.kr>
 
 Reference link  
-Google: [1]
-Google: [Google]
+Google: [1]  
+Google: [Google]  
 
 [1]: http://www.google.co.kr
 [Google]: http://www.google/co.kr
