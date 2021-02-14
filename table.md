@@ -2,6 +2,7 @@
 |:-|:-:|-:|
 |왼쪽정렬|중앙정렬|오른쪽정렬|  
 |abc|abc|abc|
+|abcdefg|abcdefg|abcdefg|
 
 |제목|내용|비고|
 |-|-|-|
