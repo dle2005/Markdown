@@ -1,1 +1,1 @@
-(/Users/dlee/Desktop/github.png)
+![Alt text](/Users/dlee/Desktop/github.png)
